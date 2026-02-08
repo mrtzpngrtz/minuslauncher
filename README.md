@@ -2,6 +2,8 @@
 
 A minimal, text-based Android launcher designed to reduce distractions and promote intentional phone use.
 
+![minuslauncher screenshot](screenshot.png)
+
 ## Features
 
 - **Minimalist Design**: A clean, text-only interface that keeps your home screen clutter-free.
