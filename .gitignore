@@ -1,0 +1,18 @@
+# Android
+.gradle
+/build
+/*/build
+*.apk
+*.aar
+*.jks
+*.keystore
+
+# Android Studio
+.idea
+*.iml
+local.properties
+.DS_Store
+
+# Large files
+*.hprof
+*.log

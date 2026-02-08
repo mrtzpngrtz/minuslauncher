@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Minimal Launcher</string>
+    <string name="settings_title">Select Apps</string>
+    <string name="save_button">Save</string>
+    <string name="search_hint">Search apps...</string>
+    <string name="max_apps_warning">Maximum 10 apps allowed</string>
+    <string name="no_apps_selected">No apps selected. Tap the gear icon to add apps.</string>
+</resources>
